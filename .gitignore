@@ -1,0 +1,14 @@
+# PlatformIO 构建产物（可随时重新生成）
+.pio/
+
+# 编辑器 / 工具的个人配置
+.vscode/
+.claude/
+
+# 密钥 —— 绝对不要提交
+secrets.h
+
+# 临时与调试文件
+*.log
+*.bak
+.DS_Store
