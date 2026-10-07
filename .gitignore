@@ -12,3 +12,10 @@ secrets.h
 *.log
 *.bak
 .DS_Store
+03-controller-demostration/.cache/clangd/index/Adafruit_BusIO_Register.cpp.4868553EC94B9866.idx
+.cache/
+.tools/__pycache__/
+03-controller-demostration/tools/__pycache__/motor_sim.cpython-311.pyc
+03-controller-demostration/tools/__pycache__/pad_bridge.cpython-311.pyc
+03-controller-demostration/tools/__pycache__/verify_layout.cpython-311.pyc
+03-controller-demostration/tools/__pycache__/preview.cpython-311.pyc
